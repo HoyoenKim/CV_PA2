@@ -1,0 +1,3 @@
+{
+    "words": ["keypoints", "imread", "RANSAC", "reprojection", "keypoint", "rvecs", "tvecs", "Rodrigues", "linalg", "SOLVEPNP", "hstack", "dtype", "addpath", "nargout"]
+}
